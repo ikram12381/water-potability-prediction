@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.20
+scikit-learn>=1.4
+imbalanced-learn>=0.12
+xgboost>=2.0
+optuna>=3.6
+shap>=0.45
+jupyter
